@@ -1,0 +1,27 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Titanrose.com" resolutions="1x" timestamp="1455475543786">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4171566495" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background.jpg" crc="3934485470" seo="true" ref="index"/>
+    <file name="topbanner.jpg" crc="534479069" seo="true" ref="index"/>
+    <file name="bottom banner.jpg" crc="184690514" seo="true" ref="index"/>
+    <file name="header logo.png" crc="3846693940" seo="true" ref="index"/>
+    <file name="rectangle 4.png" crc="3999707206" seo="true" ref="index"/>
+    <file name="newsbackgroundbox.png" crc="4053255123" seo="true" ref="index"/>
+    <file name="newsheaderbox.png" crc="4226720054" seo="true" ref="index"/>
+    <file name="titanlogonews.jpg" crc="516240534" seo="true" ref="index"/>
+    <file name="rectangle 8.jpg" crc="3966525471" seo="true" ref="index"/>
+    <file name="rectangle 7.png" crc="3916536874" seo="true" ref="index"/>
+    <file name="footer box.jpg" crc="6833426" seo="true" ref="index"/>
+    <file name="footer logo.png" crc="3779305242" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="509737127" seo="true" mt="1455475465664" redirect="true"/>
+</manifest>

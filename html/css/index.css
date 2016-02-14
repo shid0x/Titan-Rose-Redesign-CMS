@@ -1,0 +1,159 @@
+.version.index /* version checker */
+{
+	color: #0000F8;
+	background-color: #A50D9F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1701px;
+	min-height: 954px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u172
+{
+	z-index: 2;
+	width: 1701px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 308px;
+}
+
+#u94
+{
+	z-index: 4;
+	width: 1701px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u104
+{
+	z-index: 6;
+	width: 1701px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 133px;
+}
+
+#u114
+{
+	z-index: 8;
+	width: 295px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 65px;
+	left: 118px;
+}
+
+#u143
+{
+	z-index: 10;
+	width: 1243px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 267px;
+	left: 136px;
+}
+
+#u213
+{
+	z-index: 12;
+	width: 872px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 365px;
+	left: 136px;
+}
+
+#u201
+{
+	z-index: 14;
+	width: 872px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 365px;
+	left: 136px;
+}
+
+#u223
+{
+	z-index: 16;
+	width: 124px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 442px;
+	left: 166px;
+}
+
+#u262
+{
+	z-index: 18;
+	width: 287px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 412px;
+	left: 1090px;
+}
+
+#u252
+{
+	z-index: 20;
+	width: 289px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 365px;
+	left: 1090px;
+}
+
+#u272
+{
+	z-index: 22;
+	width: 1701px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 885px;
+}
+
+#u301
+{
+	z-index: 24;
+	width: 149px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 910px;
+	left: 1222px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 1701px;
+}
+
+
